@@ -1,3 +1,4 @@
+
 AGER_TYP;categorical;[-1,0]
 ALTERSKATEGORIE_FEIN;ordinal;[-1,0.9]
 ALTERSKATEGORIE_GROB;ordinal;[-1,0,9]
