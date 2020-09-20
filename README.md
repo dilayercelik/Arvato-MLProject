@@ -42,7 +42,7 @@ I would like to thank everyone involved in presenting me this Capstone Project, 
 
 - Dilay Fidan Ercelik
 
-Contact [here](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
+Contact me [here](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
 
 
