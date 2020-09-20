@@ -16,6 +16,8 @@ This project employ both **unsupervised** (PCA and Dimensionality Reduction, k-M
 
 The Jupyter Notebook is written in **Python** (3.x. version required). 
 
+> This project requires you to install the listed libraries in the requirement.txt file and Anaconda distribution Python 3.6
+
 
 The main **packages** used are:
 
