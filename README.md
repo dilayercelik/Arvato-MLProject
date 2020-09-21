@@ -90,9 +90,15 @@ You can have a look at the [Leaderboard](https://www.kaggle.com/c/udacity-arvato
 The AUC of the ROC Curve score I obtained with my only submission is: 0.74612
 
 
+
 # Acknowledgements
 
 I would like to thank everyone involved in presenting me this Capstone Project, both at Udacity (for their support) and at Arvato Financial Services (for letting us access their private data).
+
+Have a look at the Machine Learning Engineer Nanodegree, offered by Udacity (via the School of AI), [here](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
+
+The syllabus for this online programme can be found [here](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf).
+
 
 
 # Author
