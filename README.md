@@ -11,7 +11,7 @@ This project employ both **unsupervised** (PCA and Dimensionality Reduction, k-M
 
 You can access the mentor review I have received for my Proposal submission (see folder), [here](https://review.udacity.com/#!/reviews/2498032).
 
-Alternatively, you can access a pdf version in this repo, [here](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Proposal/Proposal-MentorReview.pdf)
+Alternatively, you can access a pdf version in this repo, [here](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Proposal/Proposal-MentorReview.pdf).
 
 
 # Project Notebook Review
