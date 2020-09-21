@@ -83,6 +83,12 @@ The main **packages** used are:
 `scikit-learn` (sklearn): Machine Learning library in Python
 
 
+# Results
+
+You can have a look at the [Leaderboard](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard) of the Kaggle Competition (as of now, I stand, with my first and only submission kaggle.csv file, as 174th out of 270 participants).
+
+The accuracy I obtained with my only submission is: 0.74612
+
 
 # Acknowledgements
 
