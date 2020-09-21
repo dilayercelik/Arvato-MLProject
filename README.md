@@ -18,7 +18,7 @@ TBA
 
 # Table of Contents
 
-- Project_Notebook (folder)
+- **Project_Notebook**
   
   - [Arvato_Project_Workbook.ipynb](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Project_Notebook/Arvato_Project_Workbook.ipynb)
   
@@ -26,7 +26,7 @@ TBA
   
   
 
-- Proposal (folder)
+- **Proposal**
 
   - [Proposal.pdf](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Proposal/Proposal.pdf)
   
@@ -34,13 +34,13 @@ TBA
   
   
   
-- Report (folder)
-  
+- **Report**
+
   - Report.pdf 
 
 
 
-- metadata (folder) - Information xlsx files (given prior to project)
+- metadata (Information xlsx files given prior to project)
 
   - [DIAS Attributes - Values 2017 (1).xlsx](https://github.com/dilayercelik/Arvato-MLProject/blob/master/metadata/DIAS%20Attributes%20-%20Values%202017%20(1).xlsx)
   
