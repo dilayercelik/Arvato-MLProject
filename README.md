@@ -7,6 +7,15 @@ In this project, I have worked on 4 demographics datasets provided Arvato Financ
 This project employ both **unsupervised** (PCA and Dimensionality Reduction, k-Means Clustering and Customer Segmentation) and **supervised** (from scikit-learn...) machine learning algorithms and techniques.
 
 
+# Proposal Review
+
+You can access the mentor review I have received for my Proposal submission (see folder), [here](https://review.udacity.com/#!/reviews/2498032).
+
+# Project Notebook Review
+
+TBA
+
+
 # Table of Contents
 
 - Proposal
