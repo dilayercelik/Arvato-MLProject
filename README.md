@@ -18,7 +18,46 @@ TBA
 
 # Table of Contents
 
-- Proposal
+- Project_Notebook (folder)
+  
+  - [Arvato_Project_Workbook.ipynb](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Project_Notebook/Arvato_Project_Workbook.ipynb)
+  
+  - [Arvato_Project_Workbook.html](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Project_Notebook/Arvato_Project_Workbook.html)
+  
+  
+
+- Proposal (folder)
+
+  - [Proposal.pdf](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Proposal/Proposal.pdf)
+  
+  - [Proposal-MentorReview.pdf](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Proposal/Proposal-MentorReview.pdf)
+  
+  
+  
+- Report (folder)
+  
+  - Report.pdf 
+
+
+
+- metadata (folder) - Information xlsx files (given prior to project)
+
+  - [DIAS Attributes - Values 2017 (1).xlsx](https://github.com/dilayercelik/Arvato-MLProject/blob/master/metadata/DIAS%20Attributes%20-%20Values%202017%20(1).xlsx)
+  
+  - [DIAS Information Levels - Attributes 2017.xlsx](https://github.com/dilayercelik/Arvato-MLProject/blob/master/metadata/DIAS%20Information%20Levels%20-%20Attributes%202017.xlsx)
+  
+  
+- README.md 
+
+
+- [attributes.csv](https://github.com/dilayercelik/Arvato-MLProject/blob/master/attributes.csv): csv file created to assist the data preprocessing step
+
+
+- [kaggle.csv](https://github.com/dilayercelik/Arvato-MLProject/blob/master/kaggle.csv): csv file created for [Kaggle Competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard) submission
+
+
+- [requirements.txt](https://github.com/dilayercelik/Arvato-MLProject/blob/master/requirements.txt)
+
 
 
 # Requirements
@@ -51,7 +90,7 @@ I would like to thank everyone involved in presenting me this Capstone Project, 
 
 - Dilay Fidan Ercelik
 
-Contact me [here](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
+Contact: [here](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
 
 
