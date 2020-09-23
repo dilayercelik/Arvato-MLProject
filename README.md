@@ -39,7 +39,7 @@ TBA
   
 - **Report**
 
-  - Report.pdf 
+  - [Report.pdf](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Report/Report.pdf) 
 
 
 
