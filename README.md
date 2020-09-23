@@ -1,4 +1,4 @@
-# Arvato-MLProject
+# Arvato-MLProject: PASSED (Sept 2020)
 
 This GitHub repository hosts the Capstone project I have developed and completed as part of the Udacity Machine Learning Engineer Nanodegree. 
 
@@ -18,7 +18,7 @@ Alternatively, you can access a pdf version in this repo, [here](https://github.
 
 You can access the mentor review I have received for my Project submission, [here](https://review.udacity.com/#!/reviews/2523636).
 
-Alternatively, you can access a pdf version in this repo, [here](
+Alternatively, you can access a pdf version in this repo, [here](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Report/Report_Mentor_Review.pdf)
 
 
 # Table of Contents
