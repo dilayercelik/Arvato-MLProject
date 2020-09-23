@@ -18,7 +18,7 @@ Alternatively, you can access a pdf version in this repo, [here](https://github.
 
 You can access the mentor review I have received for my Project submission, [here](https://review.udacity.com/#!/reviews/2523636).
 
-Alternatively, you can access a pdf version in this repo, [here](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Report/Report_Mentor_Review.pdf)
+Alternatively, you can access a pdf version in this repo, [here](https://github.com/dilayercelik/Arvato-MLProject/blob/master/Report/Report_Mentor_Review.pdf).
 
 
 # Table of Contents
