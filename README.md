@@ -106,6 +106,8 @@ The syllabus for this online programme can be found [here](https://s3.amazonaws.
 - Dilay Fidan Ercelik
 
   - Contact: [here](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
+  
+  - Email: dilay.ercelik.19@ucl.ac.uk
 
 
 
